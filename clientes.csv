@@ -1,0 +1,9 @@
+"CPF","NOME","ENDERECO1","ENDERECO2","BAIRRO","CIDADE","ESTADO","CEP","DATA_NASCIMENTO","SEXO","LIMITE_CREDITO","VOLUME_COMPRA","PRIMEIRA_COMPRA"
+19290992743,"Fernando Cavalcante","R. Dois de Fevereiro","(null)","Água Santa","Rio de Janeiro","RJ",22000000,"12/02/00","M",100000,200000,1
+2600586709,"Cesar Teixeira","Rua Conde de Bonfim","(null)","Tijuca","Rio de Janeiro","RJ",22020001,"12/03/00","M",120000,220000,0
+9283760794,"Edson Meilelles","R. Pinto de Azevedo","(null)","Cidade Nova","Rio de Janeiro","RJ",22002002,"07/10/95","M",150000,250000,1
+5576228758,"Petra Oliveira","R. Benicio de Abreu","(null)","Lapa","São Paulo","SP",88192029,"14/11/95","F",70000,160000,1
+8502682733,"Valdeci da Silva","R. Srg. Edison de Oliveira","(null)","Jardins","São Paulo","SP",82122020,"07/10/95","M",110000,190000,0
+3623344710,"Marcos Nougueira","Av. Pastor Martin Luther King Junior","(null)","Inhauma","Rio de Janeiro","RJ",22002012,"13/01/95","M",110000,220000,1
+50534475787,"Abel Silva","Rua Humaita","(null)","Humaita","Rio de Janeiro","RJ",22000212,"11/09/95","M",170000,260000,0
+492472718,"Eduardo Jorge","R. Volta Grande","(null)","Tijuca","Rio de Janeiro","RJ",22012002,"19/07/94","M",75000,95000,1
